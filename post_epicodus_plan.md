@@ -9,3 +9,10 @@
   * Go back to Angular and get better at that through practice.
 
 #### Longer term/"reach" priorities
+  * Learn Python using YouTube, top-rated books, and other online resources
+
+#### Job search / networking / technical interview priorities
+  * Attend 2-3+ Meetups per week while job hunting
+  * Continue to host 1 Portland Future Leaders In Tech Meetup per month
+  * Do at least 60 - 90 minutes of technical interview prep per day.
+  * 
