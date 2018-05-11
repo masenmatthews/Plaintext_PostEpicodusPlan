@@ -6,7 +6,7 @@
   * Host these portfolio pieces on my personal site, which needs to be visually enticing and fully built out. All projects will need to be deployed to Heroku so that they can be directly linked.
   * Purchase a domain name so that I can host my website.
   * Get significantly better at styling and move my coding emphasis more towards front end. I plan to do this by combing through YouTube tutorials, reading articles, and utilizing some of the lessons on Learn How to Program. I'm also going to look into purchasing some books that can help with this.
-  * Learn React using Learn How to Program, YouTube, books, and other online resources
+  * Start learning React by working through the React On Rails course (https://learnetto.com/users/hrishio/courses/the-free-react-on-rails-5-course?utm_source=fcc_medium&utm_campaign=blog_post_ideas_for_react_rails_apps&utm_medium=blog_post_ideas_for_react_rails_apps)
   * Go back to Angular and get better at that through practice
 
 #### Other coding priorities
@@ -15,6 +15,7 @@
   * Contribute to open source projects
   * Find nonprofits and community organizations that I can do pro bono work for
   * Sharpen up my README-writing skills so that I can have the best documentation in the Pacific Northwest
+  * Work through the free Harvard computer sciences courses that are available online
 
 #### Job search / networking / technical interview priorities
   * Attend 2-3+ Meetups per week while job hunting
