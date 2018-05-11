@@ -1,5 +1,11 @@
 # Post-Epicodus Plan
 ### By Masen Matthews
 
-## Description
-  This site is designed to act as my personal portfolio so that I can showcase my coding skills and projects to potential employers. It will have spaces for projects, blog posts, contact information, and an 'about me' section.
+#### Top priorities (coding specific)
+  * Create a fully polished portfolio with 4-6 well made, fully functional products. Over time, I would like to phase out projects that I made at Epicodus to make room for original content.
+  * Host these portfolio pieces on my personal site, which needs to be visually enticing and fully built out. I am also planning on purchasing a domain and hosting it there.
+  * Get significantly better at styling and move my coding emphasis more towards front end. I plan to do this by combing through YouTube tutorials, reading articles, and utilizing some of the lessons on Learn How to Program. I'm also going to look into purchasing some books that can help with this.
+  * Learn React using Learn How to Program, YouTube, books, and other online resources.
+  * Go back to Angular and get better at that through practice.
+
+#### Longer term/"reach" priorities
